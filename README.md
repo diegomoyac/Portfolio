@@ -12,5 +12,5 @@ I'm a Masters student in Business Analytics at Simon Business School, with a Bac
 ## Contact
 Feel free to reach out to me via:
 - **Email**: diegomoyaco@outlook.com / dmoyacas@simon.rochester.edu
-- **LinkedIn**: Diego Moya
+- **LinkedIn**: https://www.linkedin.com/in/diego-moya-castillo/
 
